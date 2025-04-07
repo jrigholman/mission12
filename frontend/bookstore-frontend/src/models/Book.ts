@@ -1,4 +1,4 @@
-// Weston Watson, Team 3, Section
+// Jon Holman
 
 export interface Book {
     bookID: number;  
