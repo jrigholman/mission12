@@ -1,4 +1,4 @@
-// Weston Watson, Team 3, Section
+// Jon Holman
 
 import React, { useState, useEffect } from "react";
 import { useParams, useNavigate } from "react-router-dom";
