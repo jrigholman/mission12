@@ -1,4 +1,4 @@
-// Weston Watson, Team 3, Section
+// Jon Holman
 
 import React from "react";
 import { useCart } from "../context/CartContext";
